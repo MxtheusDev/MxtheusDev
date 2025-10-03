@@ -39,6 +39,6 @@
 📱 Contact Me
 </h1>
 
-- Make projects with me by sending an email: `pzszcontato@gmail.com`
+- Make projects with me by sending an email: `mxthcontato@gmail.com`
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ccd0dd&height=100&section=footer"/>
