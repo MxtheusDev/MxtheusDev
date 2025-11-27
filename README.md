@@ -27,7 +27,7 @@
 ✨ Stacks
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=py,docker,github,vscode,mysql,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,docker,github,vscode,mysql,mongodb,redis)](https://skillicons.dev)
 
 <h1>
 📖 Studying
