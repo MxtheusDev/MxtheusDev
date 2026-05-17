@@ -27,13 +27,13 @@
 ✨ Stacks
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,docker,github,vscode,mysql,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,docker,github,vscode)](https://skillicons.dev)
 
 <h1>
 📖 Studying
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,docker,java,mysql,redis)](https://skillicons.dev)
 
 <h1>
 📱 Contact Me
