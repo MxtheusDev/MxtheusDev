@@ -17,7 +17,7 @@
 </h1>
 
 - 🔭 Working on freelance and personal backend projects
-- 📚 Focused on advancing my expertise in Python backend development
+- 📚 Focused on advancing my expertise in Java/Java Script backend development
 - 🎯 Driven by technology, problem-solving, and scalable system design
 - 🎓 Backend Developer
 
