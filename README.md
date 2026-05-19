@@ -33,7 +33,7 @@
 📖 Studying
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=py,docker,java,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,docker,java,mysql,redis)](https://skillicons.dev)
 
 <h1>
 📱 Contact Me
