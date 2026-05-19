@@ -27,7 +27,7 @@
 ✨ Stacks
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,docker,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,vscode)](https://skillicons.dev)
 
 <h1>
 📖 Studying
